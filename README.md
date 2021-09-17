@@ -14,6 +14,9 @@ The lineup order cannot be changed, meaning that the game cannot modify the orde
 
 The tournament finishes when one of the team does not have any more fighters to fight. When the game ends, it prints the result of the game, and allows user to have the choice to display the contents of the loser pile.
 
+![image](https://user-images.githubusercontent.com/51968783/133816408-2a0a21a8-5a52-4440-adc7-ac8a41dcd1b0.png)
+
+
 Goals:
 - Develop classes from program requirements
 - Implement characters using polymorphism

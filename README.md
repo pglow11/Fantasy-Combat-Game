@@ -16,6 +16,8 @@ The tournament finishes when one of the team does not have any more fighters to 
 
 ![image](https://user-images.githubusercontent.com/51968783/133816408-2a0a21a8-5a52-4440-adc7-ac8a41dcd1b0.png)
 
+![image](https://user-images.githubusercontent.com/51968783/133816482-3251bb8d-2557-4acf-8204-b2b2a062495d.png)
+
 
 Goals:
 - Develop classes from program requirements
